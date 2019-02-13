@@ -1,5 +1,13 @@
-Content Filter
+Proof of concept for filtering ICI microscopes
 =========
+
+Directions to play with: 
+
+1. Either download/extract or clone
+2. Open the index.html file using a browser such as Chrome
+
+
+----
 
 A slide-in filter panel powered by CSS and jQuery.
 
